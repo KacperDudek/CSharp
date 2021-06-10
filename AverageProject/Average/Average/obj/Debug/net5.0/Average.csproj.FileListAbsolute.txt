@@ -1,0 +1,16 @@
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\Average.exe
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\Average.deps.json
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\Average.runtimeconfig.json
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\Average.runtimeconfig.dev.json
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\Average.dll
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\ref\Average.dll
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\bin\Debug\net5.0\Average.pdb
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.csproj.AssemblyReference.cache
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.AssemblyInfoInputs.cache
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.AssemblyInfo.cs
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.dll
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\ref\Average.dll
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.pdb
+C:\Users\Kacper\Projekty\VS Code\AverageProject\Average\Average\obj\Debug\net5.0\Average.genruntimeconfig.cache
